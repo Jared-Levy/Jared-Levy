@@ -1,12 +1,15 @@
 Skip to [Me as a Programmer](https://jared-levy.github.io/Jared-Levy/#me-as-a-programmer)
+
 Skip to [Me as a Person](https://jared-levy.github.io/Jared-Levy/#me-as-a-person)
 
 Me
-[Me](https://media-exp1.licdn.com/dms/image/C5603AQGzvTPqqIwaYw/profile-displayphoto-shrink_400_400/0/1623995646603?e=1638403200&v=beta&t=JZEP9JU_iwyT9JzUXk5RsMwi43sp7Lh4_QiIuas0X9k)
+![Me](https://media-exp1.licdn.com/dms/image/C5603AQGzvTPqqIwaYw/profile-displayphoto-shrink_400_400/0/1623995646603?e=1638403200&v=beta&t=JZEP9JU_iwyT9JzUXk5RsMwi43sp7Lh4_QiIuas0X9k)
 
 ### Me as a Programmer
 **My favorite language:** 
+
 Python (which you can also see on the [README](README.md))
+
 **My most used python method (probably):** 
 ```
 numpy.zeros((rows, cols))
@@ -16,10 +19,15 @@ Mac
 
 ### Me as a Person
 **Favorite Scientist:**
+
 Dr. Doofenshmirtz
+
 ![Dr. Doof](https://upload.wikimedia.org/wikipedia/en/e/eb/Heinz_Doofenshmirtz.png)
+
 **My favorite quote:**
+
 > I am Iron Man
+
 **Favorite fun fact:**
 According to [Science Daily](https://www.sciencedaily.com/releases/2000/12/001201152406.htm) a
 tiger's roar can paralyze its prey and even experienced human trainers

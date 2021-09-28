@@ -45,7 +45,7 @@ According to [Science Daily](https://www.sciencedaily.com/releases/2000/12/00120
 1. Stephen Curry
 2. Kelly Slater
 3. Sean White
-4. 
+   
 **My college goals:**
 
 - [x] Join a research lab

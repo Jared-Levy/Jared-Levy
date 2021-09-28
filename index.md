@@ -11,7 +11,7 @@ Me
 ### Me as a Programmer
 **My favorite language:** 
 
-Python (which you can also see on the [README](README.md))
+Python (which you can also see on the second line of the [README](README.md))
 
 **My most used python method (probably):** 
 ```

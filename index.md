@@ -39,7 +39,7 @@ According to [Science Daily](https://www.sciencedaily.com/releases/2000/12/00120
 - Good Will Hunting
 - Limitless
 - Endgame
-- 
+  
 **Top 3 favorite sports competitors in history:**
 
 1. Stephen Curry

@@ -18,6 +18,7 @@ Python (which you can also see on the [README](README.md))
 numpy.zeros((rows, cols))
 ```
 **The computer I use:**
+
 Mac
 
 ### Me as a Person

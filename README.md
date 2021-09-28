@@ -1,4 +1,5 @@
-### My favorite programming language is Python
+URL of my published GitHub pages site: https://jared-levy.github.io/Jared-Levy/
+My favorite programming language is Python
 ### Hi there 👋
 
 <!--
